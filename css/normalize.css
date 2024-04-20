@@ -9,6 +9,11 @@ Version:	1.1
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
+.ankush{
+	align-items: flex-start;
+	height:50px;
+	width: 50px;
+}
 html {
 	 font-family: 'Poppins', sans-serif;
 	-moz-text-size-adjust: 100%;
