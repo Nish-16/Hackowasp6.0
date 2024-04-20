@@ -9,12 +9,6 @@ Version:	1.1
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
-
-
-
-.logo{
-	size-adjust: 9000rem;
-}
 html {
 	 font-family: 'Poppins', sans-serif;
 	-moz-text-size-adjust: 100%;
